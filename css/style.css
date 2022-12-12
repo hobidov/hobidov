@@ -424,6 +424,6 @@ form .send-btn:hover{
         order: 2;
     }
     .services{
-        max-width: auto;
+        max-width: 100%;
     }
 }
